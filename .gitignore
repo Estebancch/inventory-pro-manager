@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directorios de entorno virtual
+.venv/
+venv/
+env/
+.env
+
+# Base de datos local (¡IMPORTANTE: No subir data de clientes al repo público!)
+*.db
+*.sqlite3
+
+# Compilación de PyInstaller / Distribución
+build/
+dist/
+*.spec
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
