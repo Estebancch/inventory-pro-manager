@@ -74,3 +74,6 @@ python app.py
 
 ## 📌 Nota
 Proyecto personal enfocado en practicar desarrollo de aplicaciones de escritorio con interfaz gráfica y manejo de datos.
+
+## 📩 Contacto
+Si tienes alguna duda o sugerencia sobre este proyecto, puedes contactarme a través de mi perfil de GitHub.
